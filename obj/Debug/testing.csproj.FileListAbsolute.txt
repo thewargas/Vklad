@@ -1,0 +1,16 @@
+C:\Users\warga\source\repos\testing\obj\Debug\testing.csproj.AssemblyReference.cache
+C:\Users\warga\source\repos\testing\obj\Debug\testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\warga\source\repos\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\warga\source\repos\testing\bin\Debug\testing.exe.config
+C:\Users\warga\source\repos\testing\bin\Debug\testing.exe
+C:\Users\warga\source\repos\testing\bin\Debug\testing.pdb
+C:\Users\warga\source\repos\testing\obj\Debug\testing.exe
+C:\Users\warga\source\repos\testing\obj\Debug\testing.pdb
+C:\Users\warga\source\repos\Vklad\bin\Debug\testing.exe.config
+C:\Users\warga\source\repos\Vklad\bin\Debug\testing.exe
+C:\Users\warga\source\repos\Vklad\bin\Debug\testing.pdb
+C:\Users\warga\source\repos\Vklad\obj\Debug\testing.csproj.AssemblyReference.cache
+C:\Users\warga\source\repos\Vklad\obj\Debug\testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\warga\source\repos\Vklad\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\warga\source\repos\Vklad\obj\Debug\testing.exe
+C:\Users\warga\source\repos\Vklad\obj\Debug\testing.pdb
